@@ -12,7 +12,6 @@ https://htmlacademy.ru/blog/boost/frontend/semantics - про семантичн
 https://htmlacademy.ru/blog/boost/frontend/content-or-decor-img - отличие контентного изображения от декоративного<br>
 https://habr.com/ru/post/580336/ - про дом-дерево<br>
 https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/ - путеводитель по Less<br>
-https://habr.com/ru/post/486820/ - 70 вопросов для подготовки к собеседованию<br>
 https://squoosh.app/ - обработка графики<br>
 https://www.w3.org/Style/Examples/007/center.ru.html - центрирование css<br>
 https://tuhub.ru/posts/centering-css-complete-guide - центрирование css 2<br>
@@ -40,3 +39,5 @@ https://grid.malven.co/ - генератор гридов<br>
 https://cssgrid-generator.netlify.app/ - интерактивный генератор<br>
 https://alialaa.github.io/css-grid-cheat-sheet/ - тоже интерактивный генератор<br>
 https://gridbyexample.com/examples/ - гриды с примерами<br>
+https://www.youtube.com/watch?v=M7m_3b1Jjzc&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%D0%94%D1%83%D0%B4%D0%B0%D1%80%D1%8C - видеолекция<br>
+https://www.youtube.com/watch?v=-fDqBEjfzGo&ab_channel=WebDesignMaster - видеолекция<br>
