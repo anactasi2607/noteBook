@@ -1,0 +1,28 @@
+/* Общее */
+https://yoksel.github.io/html-tree/ - генератор html-дерева
+https://caninclude.glitch.me/- проверка вложенности
+https://validator.w3.org/nu/ - валидатор кода
+https://flagstudio.ru/blog/4-stepeni-adaptivnosti-html-verstki- различия верстки фикс/адаптив/резина/отзывчивая
+https://htmlacademy.ru/blog/boost/frontend/semantics - про семантичность
+https://htmlacademy.ru/blog/boost/frontend/content-or-decor-img - отличие контентного изображения от декоративного
+https://habr.com/ru/post/580336/ - про дом-дерево
+https://ru.bem.info/methodology/ - БЭМ
+https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/ - путеводитель по Less
+https://habr.com/ru/post/486820/ - 70 вопросов для подготовки к собеседованию
+
+/* Гит */
+https://githowto.com/ru - гит
+https://github.com/nicothin/web-development/blob/master/git/readme.md- команды гита
+
+/* Флексы */
+https://tpverstak.ru/flex-cheatsheet/ - шпаргалка по флекс
+https://flexboxfroggy.com/#ru - игра для изучения флексов
+
+/* Гриды */
+http://cssgridgarden.com/#ru - игра
+https://learncssgrid.com/ - руководство на английском
+https://html5book.ru/css-grid/ - статья-руководство
+https://grid.malven.co/ - генератор гридов
+https://cssgrid-generator.netlify.app/ - интерактивный генератор
+https://alialaa.github.io/css-grid-cheat-sheet/ - тоже интерактивный генератор
+https://gridbyexample.com/examples/ - гриды с примерами
