@@ -9,6 +9,17 @@ https://habr.com/ru/post/580336/ - про дом-дерево
 https://ru.bem.info/methodology/ - БЭМ
 https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/ - путеводитель по Less
 https://habr.com/ru/post/486820/ - 70 вопросов для подготовки к собеседованию
+https://squoosh.app/ - обработка графики
+https://www.w3.org/Style/Examples/007/center.ru.html - центрирование css
+http://css.yoksel.ru/css-and-svg-masks/ - css и svg маски
+http://css.yoksel.ru/- интересно про css
+https://anatolykulikov.ru/review/download-fonts-from-google-fonts/ - скачать шрифты с google fonts
+https://loading.io/css - красивые лоадеры
+
+/* Разное */
+https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/ - шпаргалка по Emmet
+https://weblind.ru/ - рекомендации по разработке сайтов для слабовидящих
+https://medium.com/genesis-media/%D1%87%D1%82%D0%BE-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%BE%D0%B9-%D0%B2%D0%B5%D0%B1-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B8-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5-3933c96467a - отрисовка страницы
 
 /* Гит */
 https://githowto.com/ru - гит

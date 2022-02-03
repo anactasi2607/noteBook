@@ -1,3 +1,0 @@
-https://caniuse.com/- поддержка возможностей js
-https://tproger.ru/translations/wtf-is-ecmascript/-версии es
-https://habr.com/ru/company/ruvds/blog/347866/ - неявное преобразование типов
