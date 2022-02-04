@@ -2,7 +2,7 @@
 
 #### **Общее**
 https://caniuse.com/- поддержка возможностей js<br>
-https://tproger.ru/translations/wtf-is-ecmascript/-версии es<br>
+https://tproger.ru/translations/wtf-is-ecmascript/- версии es<br>
 https://habr.com/ru/company/ruvds/blog/347866/ - неявное преобразование типов<br>
 https://habr.com/ru/company/ruvds/blog/420359/ - var, let, const<br>
 http://latentflip.com/loupe/ - эмулятор работы event loop<br>
