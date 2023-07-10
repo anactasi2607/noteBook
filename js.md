@@ -1,6 +1,8 @@
 ### Ссылки на полезные материалы по js
 
 #### **Общее**
+https://frontend-stuff.com/blog/es2021/ - новое в ES12<br>
+https://doka.guide/js/ - гид по js<br>
 https://caniuse.com/- поддержка возможностей js<br>
 https://tproger.ru/translations/wtf-is-ecmascript/- версии es<br>
 https://habr.com/ru/company/ruvds/blog/347866/ - неявное преобразование типов<br>
@@ -11,6 +13,8 @@ https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-
 https://habr.com/ru/post/359192/ - алгоритмы<br>
 https://habr.com/ru/post/497476/ - структуры данных в js<br>
 https://habr.com/ru/company/wrike/blog/302896/ - асинхронность в js<br>
+https://frontend-stuff.com/blog/how-to-loop-through-object-in-javascript/ - пять способов перебрать объект<br>
+https://frontend-stuff.com/blog/hoisting/ - всплытие переменных;
 
 #### **Учебники**
 https://learn.javascript.ru/ - учебник Кантора, обновляется, актуальная информация<br>
@@ -28,6 +32,7 @@ https://habr.com/ru/post/351874/<br>
 https://habr.com/ru/post/486820/ - 70 вопросов для подготовки к собеседованию<br>
 https://proglib.io/p/tricky-challenges-js - вопросы с собеседований<br>
 https://www.cat-in-web.ru/45-js-questions/#types - вопросы с собеседований<br>
+https://frontend-stuff.com/blog/javascript-cheatsheet/ - вопросы к собеседованиям;
 
 #### **Книги**
 JavaScript. Полное руководство (Флэнаган Дэвид)<br>

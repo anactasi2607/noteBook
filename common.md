@@ -10,6 +10,7 @@ https://habr.com/ru/post/251373/ - Что именно происходит, к�
 https://habr.com/ru/post/251501/ - Что именно происходит, когда пользователь набирает в адресной строке google.com, часть 2<br>
 
 https://doka.guide/js/how-the-browser-creates-pages/ - Как браузер рисует страницы<br>
+https://doka.guide/js/web-app-works/ - Как работают веб-приложения<br>
 https://habr.com/ru/articles/320430/ - Понимание критического пути рендеринга<br>
 https://telegra.ph/Repaint-i-Reflow-03-19 - Repaint и Reflow<br>
 https://rashidovr.medium.com/reflow-repaint-composite-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%82%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-a777c5760295 - reflow repaint composite что это и как это работает<br>
