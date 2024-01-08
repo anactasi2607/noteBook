@@ -1,0 +1,1 @@
+https://proglib.io/p/luchshie-praktiki-primeneniya-principov-solid-v-react-2022-08-10/amp/ - ООП в реакт<br>

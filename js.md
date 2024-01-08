@@ -14,7 +14,10 @@ https://habr.com/ru/post/359192/ - алгоритмы<br>
 https://habr.com/ru/post/497476/ - структуры данных в js<br>
 https://habr.com/ru/company/wrike/blog/302896/ - асинхронность в js<br>
 https://frontend-stuff.com/blog/how-to-loop-through-object-in-javascript/ - пять способов перебрать объект<br>
-https://frontend-stuff.com/blog/hoisting/ - всплытие переменных;
+https://frontend-stuff.com/blog/hoisting/ - всплытие переменных;<br>
+https://habr.com/ru/articles/782696/ - возможности js<br>
+https://habr.com/ru/companies/simbirsoft/articles/769312/ - алгоритмы сортировки<br>
+
 
 #### **Учебники**
 https://learn.javascript.ru/ - учебник Кантора, обновляется, актуальная информация<br>
@@ -32,7 +35,10 @@ https://habr.com/ru/post/351874/<br>
 https://habr.com/ru/post/486820/ - 70 вопросов для подготовки к собеседованию<br>
 https://proglib.io/p/tricky-challenges-js - вопросы с собеседований<br>
 https://www.cat-in-web.ru/45-js-questions/#types - вопросы с собеседований<br>
-https://frontend-stuff.com/blog/javascript-cheatsheet/ - вопросы к собеседованиям;
+https://frontend-stuff.com/blog/javascript-cheatsheet/ - вопросы к собеседованиям;<br>
+https://habr.com/ru/articles/784548/ - вопросы для подготовки<br>
+https://habr.com/ru/companies/timeweb/articles/769844/ - 8 углубленных вопросов<br>
+
 
 #### **Книги**
 JavaScript. Полное руководство (Флэнаган Дэвид)<br>

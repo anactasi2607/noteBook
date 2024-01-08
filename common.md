@@ -21,3 +21,8 @@ https://habr.com/ru/articles/308484/ - Статическая и динамич�
 #### **Гит**
 https://githowto.com/ru - гит<br>
 https://github.com/nicothin/web-development/blob/master/git/readme.md- команды гита<br>
+
+#### **Разное**
+
+https://apptractor.ru/develop/chto-nuzhno-i-chego-ne-nuzhno-delat-vo-vremya-code-review.html/amp - код-ревью<br>
+https://habr.com/ru/articles/784450/ - прокрастинация<br>
